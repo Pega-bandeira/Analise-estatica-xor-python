@@ -118,4 +118,3 @@ Quer gerar `ords` a partir da flag? Faça `ord(char) ^ 0x32` para cada caractere
 
 **Resumo em 1 frase:** O script desfaz uma ofuscação XOR (chave 0x32) sobre uma lista de inteiros para reconstruir a string `crypto{z3n_0f_pyth0n}`.
 
-*Pronto! Se quiser, posso adicionar mais desafios.*
